@@ -13,3 +13,5 @@ const PostsLayout = ({ children, modal }: Props) => {
 };
 
 export default PostsLayout;
+
+// this layout is used to wrap the posts page and the modal

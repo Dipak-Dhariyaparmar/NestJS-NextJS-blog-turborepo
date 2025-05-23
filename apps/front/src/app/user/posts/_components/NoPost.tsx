@@ -22,3 +22,4 @@ const NoPost = () => {
 };
 
 export default NoPost;
+// this component is used to show when there are no posts in the user page

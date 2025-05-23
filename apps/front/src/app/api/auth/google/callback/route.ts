@@ -31,3 +31,5 @@ export async function GET(req: NextResponse) {
   });
   redirect("/");
 }
+
+// this is a workaround to avoid the error "TypeError: Cannot read properties of undefined (reading 'headers')"
