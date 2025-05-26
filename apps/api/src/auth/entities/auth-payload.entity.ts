@@ -11,3 +11,5 @@ export class AuthPayload {
   @Field()
   accessToken: string;
 }
+
+// This code defines a GraphQL object type for the authentication payload
