@@ -53,5 +53,3 @@ export class LikeService {
     return !!like;
   }
 }
-
-// This service handles liking and unliking posts, counting likes, and checking if a user has liked a post
