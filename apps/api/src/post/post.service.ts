@@ -152,6 +152,3 @@ export class PostService {
     return !!result;
   }
 }
-
-// This service handles CRUD operations for posts, including creating, updating, deleting, and fetching posts by user or globally
-// It also includes methods for counting posts and checking user ownership of posts.

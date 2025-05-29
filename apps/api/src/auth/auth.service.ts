@@ -79,6 +79,3 @@ export class AuthService {
     authUser;
   }
 }
-
-// This code defines an AuthService in a NestJS application that handles user authentication.
-// It includes methods for validating local users, generating JWT tokens, logging in users, validating JWT users, and validating Google users.

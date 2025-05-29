@@ -11,6 +11,3 @@ export class SignInInput {
   @MinLength(1)
   password: string;
 }
-
-// this is a GraphQL input type for signing in a user
-// it includes fields for email and password
