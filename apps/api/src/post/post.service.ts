@@ -152,3 +152,8 @@ export class PostService {
     return !!result;
   }
 }
+
+// this file defines the PostService class
+// it provides methods to create, update, delete, and retrieve posts
+// it uses PrismaService to interact with the database
+// it includes methods for pagination and filtering by user

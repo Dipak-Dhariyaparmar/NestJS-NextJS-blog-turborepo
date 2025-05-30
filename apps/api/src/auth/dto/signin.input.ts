@@ -11,3 +11,6 @@ export class SignInInput {
   @MinLength(1)
   password: string;
 }
+
+// this file defines the input type for signing in a user
+// it uses decorators from the NestJS GraphQL module to define the fields

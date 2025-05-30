@@ -79,3 +79,8 @@ export class AuthService {
     authUser;
   }
 }
+
+// this file defines the AuthService class which handles user authentication
+// it includes methods for validating local users, generating JWT tokens, logging in users,
+// validating JWT users, and validating Google users
+// it uses the Prisma service to interact with the database and the JwtService for token generation

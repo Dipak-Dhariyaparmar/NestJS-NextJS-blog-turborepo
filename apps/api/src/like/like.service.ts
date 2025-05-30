@@ -53,3 +53,9 @@ export class LikeService {
     return !!like;
   }
 }
+
+// this file defines the LikeService class
+// it provides methods to like, unlike, and check likes on posts
+// it uses PrismaService to interact with the database
+// it throws BadRequestException for errors related to liking/unliking posts
+// it returns boolean values for successful operations
